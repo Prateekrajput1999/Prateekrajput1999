@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nidhi-p-89090b211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhi-p-89090b211" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prateek-rajput-0013a31b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhi-p-89090b211" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nprateekrajput_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nprateekrajput_/" height="30" width="40" /></a>
 <a href="https://leetcode.com/prateekrajput_2k19ee192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prateekrajput_2k19ee192/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prateekrajput2k19ee192/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/prateekrajput2k19ee192/profile" height="30" width="40" /></a>

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pratikrajput08@gmail.com**
 
-- 📄 Know about my Experiences [https://drive.google.com/file/d/1PKyGfUhak4y_hbh_5eZ0UYi9Yag6lk0F/view?usp=sharing](https://drive.google.com/file/d/1PKyGfUhak4y_hbh_5eZ0UYi9Yag6lk0F/view?usp=sharing)
+<!-- - 📄 Know about my Experiences [https://drive.google.com/file/d/1PKyGfUhak4y_hbh_5eZ0UYi9Yag6lk0F/view?usp=sharing](https://drive.google.com/file/d/1PKyGfUhak4y_hbh_5eZ0UYi9Yag6lk0F/view?usp=sharing) -->
 
 - ⚡ Fun fact **Fun loving and Driving.**
 

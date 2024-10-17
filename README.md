@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Prateek Rajput</h1>
 <h3 align="center">A Full stack MERN Stack developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/13HgwGsXF0aiGY.webp">
 
 - 🌱 I’m currently working with **MERN Stack along with Cloud services such as AWS and Vercel**
 

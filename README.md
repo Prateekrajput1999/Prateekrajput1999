@@ -1,13 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Prateek Rajput</h1>
-<h3 align="center">A Full stack MERN Stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/13HgwGsXF0aiGY.webp">
 
-- 🌱 I’m currently working with **MERN Stack along with Cloud services such as AWS and Vercel**
+🌱 I’m currently working with **MERN Stack along with Cloud services such as AWS and Vercel**
 
-- 📫 How to reach me **pratikrajput08@gmail.com**
+📫 How to reach me **pratikrajput08@gmail.com**
 
-- 📄 Know about my Experiences [Resume](https://drive.google.com/file/d/1o5cmXNDmfEYFQo_BCAA9vN9bNiiytXWv/view?usp=sharing)
+📄 Know about my Experiences [Resume](https://drive.google.com/file/d/1o5cmXNDmfEYFQo_BCAA9vN9bNiiytXWv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

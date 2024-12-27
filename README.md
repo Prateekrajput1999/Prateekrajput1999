@@ -6,7 +6,7 @@
 
 📫 How to reach me **pratikrajput08@gmail.com**
 
-📄 Know about my Experiences [Resume](https://drive.google.com/file/d/1o5cmXNDmfEYFQo_BCAA9vN9bNiiytXWv/view?usp=sharing)
+📄 Know about my Experiences <a href="https://drive.google.com/file/d/1o5cmXNDmfEYFQo_BCAA9vN9bNiiytXWv/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
